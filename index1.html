@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="maximum-scale=1">
+    <title>Programare Consultatii | Dr.Paranici Papusa</title>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100;300;400;500;600;700;800;900&family=Long+Cang&family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+</head>
+<body class="noselect">
+    <header>
+		<div onclick="navbar(0)" class="burger"><il class="fas fa-bars"></il></div>
+		<div class="navPC" onclick="location.href='home'">Acasa</div>
+		<div class="navPC" onclick="location.href='contact'">Contact</div>
+		<div class="nav">
+			<div onclick="location.href='home'">Acasa</div>
+			<div onclick="location.href='contact'">Contact</div>
+		</div>
+		<div class="dropdown">
+		<div class="dropbtn"><ide class="fas fa-adjust dropbtn"></ide></div>
+		<div class="dropdown-content">
+			<a onclick="standard()">System <i1 class="fas fa-check"></i1></a>
+			<a onclick="toggleD()">Dark <i2 class="fas fa-check"></i2></a>
+			<a onclick="toggleL()">Light <i3 class="fas fa-check"></i3></a>
+		</div>
+		</div>
+	</header>
+	<div class="container2">
+		<div class="formular">
+			<h1>Ati selecat data :</h1> 
+			<h2 class="hover-1"></h2>
+			<h3 class="hour">Selectati Ora: </h3>
+			<form action="SignUP.php" method="POST" onsubmit="return programare();">
+				<div class="ore"></div>
+				<div class="error0"></div>
+				<div class="obs"></div>
+				<div class="campuri" >
+					<input type="hidden" id="btnClickedValue" name="btnClickedValue" value="">
+					<div class="camp1">
+						<p>Intrudouceti Numele</p>
+						<input type="text" placeholder="Numele" name="Numele" class="nume" onclick='recolor(".nume",".camp1",".error1")'>
+					</div>
+					<div class="error1"></div>
+					<div class="camp2">
+						<p>Intrudouceti Preumele</p>
+						<input type="text" placeholder="Prenumele" name="Prenumele" class="prenume" onclick='recolor(".prenume",".camp2",".error2")'>
+					</div>
+					<div class="error2"></div>
+					<div class="camp3">
+						<p>Intrudouceti Numarul de telefon</p>
+						<input type="text" placeholder="Numarul de telefon" name="Telefon" class="telefon" onclick='recolor(".telefon",".camp3",".error3")'>
+					</div>
+					<div class="error3"></div>
+				</div>
+				<div class="btn1">
+				    <button type="submit" onclick="programare()">Programeaza-ma !</button>
+				</div>
+			</form>
+			<div class="return">
+				<i class="fas fa-angle-left"></i>
+				<div class="btn2"><button type="button">Revino la calendar</button></div>
+        	</div>
+		</div>
+	</div>
+    <footer>
+		<div>Copyright © 2021 C.M.I Dr. Paranici Papusa</div>
+		<div>Designed and Powered by P.S.I Software Development</div>
+	</footer>
+</body>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script src="https://kit.fontawesome.com/70fd7e47e3.js" crossorigin="anonymous"></script>
+<script src="scripts1.js"></script>
+<script src="scripts3.js"></script>
+</html>

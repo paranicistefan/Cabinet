@@ -1,0 +1,78 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Programare Consultatii | Dr.Paranici Papusa</title>
+    <meta name="description" content="Cabinet medical Dr. Paranici Papusa, in com. Moara jud. Suceava
+    Dr. Paranici Papusa, medic generalist.">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100;300;400;500;600;700;800;900&family=Long+Cang&family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+  </head>
+  <body class="noselect">
+    <header>
+		<div onclick="navbar(1)" class="burger"><il class="fas fa-bars"></il></div>
+		<div class="navPC" onclick="location.href='home'">Acasa</div>
+		<div class="navPC" onclick="location.href='contact'">Contact</div>
+		<div class="nav">
+			<div onclick="location.href='home'">Acasa</div>
+			<div onclick="location.href='contact'">Contact</div>
+		</div>
+		<div class="dropdown">
+		<div class="dropbtn"><ide class="fas fa-adjust dropbtn"></ide></div>
+		<div class="dropdown-content">
+			<a onclick="standard()">System <i1 class="fas fa-check"></i1></a>
+			<a onclick="toggleD()">Dark <i2 class="fas fa-check"></i2></a>
+			<a onclick="toggleL()">Light <i3 class="fas fa-check"></i3></a>
+		</div>
+		</div>
+	</header>
+	<div class="start">
+		<h1>Selectati o data pentru Programare</h1>  
+	</div>
+	<div class="container">
+		<div class="calendar">
+			<div class="mounth">
+				<i1 class="fas fa-angle-left prev"></i1>
+				<div class="date">
+					<h1></h1>
+					<p></p>
+				</div>
+				<i2 class="fas fa-angle-right next"></i2>
+			</div>
+				<div class="weekdays">
+					<div>Luni</div>
+					<div>Marti</div>
+					<div>Miercuri</div>
+					<div>Joi</div>
+					<div>Vineri</div>
+					<div>Sambata</div>
+					<div>Duminica</div>
+				</div>
+				<div class="days">
+
+				</div>
+		</div>
+		<div onclick="myFunction()" class="legenda noselect popup">
+			<i class="fas fa-question-circle"></i>
+				<span class="popuptext text" id="myPopup">
+					<img src="legend.png" alt="Parnici Papusa">
+				</span>
+		</div>
+		
+	</div>
+	<div class="obs">
+		<br>
+	</div>
+	<footer>
+		<div>Copyright © 2021 C.M.I Dr. Paranici Papusa</div>
+		<div>Designed and Powered by P.S.I Software Development</div>
+	</footer>
+  </body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://kit.fontawesome.com/70fd7e47e3.js" crossorigin="anonymous"></script>
+  <script src="scripts.js"></script>
+  <script src="scripts3.js"></script>
+</html>

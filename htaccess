@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+RewriteRule ^home index.html [NC,L]
+RewriteRule ^formular index1.html [NC,L]
+RewriteRule ^programmed index2.html [NC,L]
+RewriteRule ^contact index3.html [NC,L]

@@ -1,0 +1,607 @@
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:44:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:44:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newuser'@'localhost' (using password: YES) in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:44:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/SignUP.php on line 11
+[13-Mar-2021 20:44:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papusapa/public_html/databaseCON.php:7) in /home/papusapa/public_html/SignUP.php on line 13
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:54:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:54:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:54:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:54:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/SignUP.php on line 11
+[13-Mar-2021 20:54:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papusapa/public_html/databaseCON.php:7) in /home/papusapa/public_html/SignUP.php on line 13
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 20:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 20:56:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 20:57:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 20:57:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/SignUP.php on line 11
+[13-Mar-2021 20:57:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papusapa/public_html/databaseCON.php:7) in /home/papusapa/public_html/SignUP.php on line 13
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Days.php on line 7
+[13-Mar-2021 21:00:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Days.php on line 8
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/Hours.php on line 7
+[13-Mar-2021 21:00:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/Hours.php on line 8
+[13-Mar-2021 21:00:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'papusapa_Paranici'@'localhost' to database 'papusapa_Pacienti' in /home/papusapa/public_html/databaseCON.php on line 7
+[13-Mar-2021 21:00:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/papusapa/public_html/SignUP.php on line 11
+[13-Mar-2021 21:00:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papusapa/public_html/databaseCON.php:7) in /home/papusapa/public_html/SignUP.php on line 13
+[16-Mar-2021 09:17:54 UTC] PHP Parse error:  syntax error, unexpected '$luni' (T_VARIABLE) in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:12 UTC] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:12 UTC] PHP Warning:  A non-numeric value encountered in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:12 UTC] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:27 UTC] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:27 UTC] PHP Warning:  A non-numeric value encountered in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:27 UTC] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:32 UTC] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:32 UTC] PHP Warning:  A non-numeric value encountered in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 09:45:32 UTC] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/papusapa/public_html/nextDay.php on line 16
+[16-Mar-2021 13:00:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/papusapa/public_html/nextDay.php on line 43
+[16-Mar-2021 16:20:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/papusapa/public_html/nextDay.php on line 43
+[16-Mar-2021 17:25:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:25:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[16-Mar-2021 17:25:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:25:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[16-Mar-2021 17:25:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:25:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[16-Mar-2021 17:26:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:26:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[16-Mar-2021 17:26:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:26:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[16-Mar-2021 17:26:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:26:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[16-Mar-2021 17:26:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:26:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[16-Mar-2021 17:26:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/papusapa/public_html/nextDay.php on line 48
+[16-Mar-2021 17:26:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/papusapa/public_html/nextDay.php on line 49
+[18-Mar-2021 17:41:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/papusapa/public_html/nextDay.php on line 43
+[18-Mar-2021 17:41:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/papusapa/public_html/nextDay.php on line 43
+[19-Mar-2021 17:18:33 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:18:33 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=&amp;remoteip=): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:42:55 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:42:55 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=',urlencode(6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL),'&amp;response=',urlencode(),'&amp;remoteip=',urlencode()'): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:44:44 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:44:44 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=',urlencode(6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL),'&amp;response=',urlencode(03AGdBq25YhEAEEn2au2mRn3UBcWViDF5YlLWZAMy53EJCnq1RIauH-LMKYG_2_iny9eBkoWK2G9yWNPRvstydDrGOgG-obuMqx81QaTHUd1lAL-sxs53nEV1kBcUJwwzMAaC5J-cT2NXFakAeTOM69sLCfN_NHSgtptRMxs18WBMSbamCUgu7vR98ADLqKvaaomeLt86s-rmYmA4T8UXXPjivTvsfPw6re1RAIRgscOxrFEjk0nkOHj9C0-vb0BaQ59Va63i_R4AWc0xz63CpabkJ6J44bQ8q6dclFpCwg1W6-0UqDZKk0eugQTYIubkDli9AVar6Nz1gtCuo4dQnik6tunBi1y3r2CA_j1RBgamv2pxf_mFB5S-x4TBgUmGPBCOahIZLmsPLvdjPvDCQpzuB_FnBEx_8EnBHmfYSOoY7-YBnlGi2zIAE1Vwd9N7tNrC7QcVwsght),'&amp;remoteip=',urlencode()'): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:48:31 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:48:31 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=&amp;remoteip=): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:48:49 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:48:49 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq24YtWyy5T9ZmYWad3pK9Nsqg3opFKma--CkfkuxBUkwBOKTWFym8s_oyTyJFpqVSI9RTxaXLN6YJ2yxc7ClcZrgHW1WvKbLNziv9ELoKAXNZTgmQOwdJrBOwXyFRePCQ3X-U9irPnaWErks9CzDr9t-BoX1jqDKu-9AROBvkahUJkcToTFJUwDRa0duK6EDTFDksE7DQ5M-m840-o558x_wXLyd0gVL9vOa-Zb7Dasc6_ZQ3gWCozJE_OKxaQCrHs-EvU6VhEKk8HbP5Fwv_R0y2U4ZcdlOUhVJDePlnZL-5mWKCfkzEJKCSxB9qs4KWzyql-1uSU4JRO6OjOZ3-morLO8913rVaDS65ovKQJ5pGycYeAbJ7xB9kvuhmEzncObInY9oL5F3W2O2mdfHCvxCVvzC9oZndKC_yI0SKlyih55OGaSj_sX0GsT0ADAl1iC3Vq92&amp;remoteip=): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:49:59 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:49:59 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:50:38 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 17:50:38 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq25ycbTLVTiEinMG98hPF9b7_-danODfQWuVKlx5v3h3KlHzVn1-RQxe4Hi5PARLNoaISJ6ZGGnAW7OgWmQ47ZvmfyMZkER4pSPbRPQU3lnuR-NaCl2Dt1QheK9clznFaWX4OWwMtumKIRRw-bqFBKs8zlkrxKmL4CxtgGDh6TqnVVJ4LLyYZen0T8WR05AuTmYN4bjyzea02T2Rp5y4y7ac4wFwz4DNH5d3Qm_wCbrpkaN20rSFWCUTKL2stRTtK7V6P9mWgB_Yw3GA2MaezK6NIfueaT5dfaoScrPSu3HIrZxFJIELlR4-OifkhvNoUkmJ_OQR8tIZoTjbA2_Fp4MWx91Pytd9T-Dg0Sis4DIteDNwtQC-reTflz8U6wG9aXq-c7VQw5TvvBL5nYKTFlrmUeMkJrXACQfuBBYOo6teOQTaCirUV1iRR7OkMw1JbrZqWH9g): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 15
+[19-Mar-2021 18:14:20 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 18:14:20 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 18:14:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papusapa/public_html/SignUP.php:25) in /home/papusapa/public_html/SignUP.php on line 30
+[19-Mar-2021 18:15:10 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 18:15:10 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 18:15:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papusapa/public_html/SignUP.php:25) in /home/papusapa/public_html/SignUP.php on line 30
+[19-Mar-2021 18:34:28 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 18:34:28 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 19:03:39 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 19:03:39 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 25
+[19-Mar-2021 19:08:37 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 24
+[19-Mar-2021 19:08:37 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 24
+[19-Mar-2021 19:18:07 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 19:18:07 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq26j1nIlGQvQtR8thVvz9WbBfUKpbPQTFXq_on0jEZjjWUVRSbAB-UcEBhogz53KN2Hm4tfd-WQgRX_1nf2Yp25edfaY-cjR2FZeAqkjF4Vqa_ilKFkdjBoQI4rp0Yju5SlcYiSf7ck3TVX-ZWiNK2S0twUrn1pahkk0lgwAmyrW06ePglbFlhh1mIq4KCvmos2PRUTitUO7ia89QIgehcaG0h0s0f9ZwAt_3gAVKahZYaotRluVh1hFLBvAlvNIXsOWUZyB9Ogqv6ptt-hjaHChkrolRWlA7Sy4vNoDIt9vCn9lLcMtZmLHDFTDbv-TCqCAKMjzgXnOjCdbcJPtFjbZ5Ia5bjKBCNBaJuUgRuF5IdvsihiZ99v2NE4ogPjHisB2l6jNw2lU23dLGGPlk6EXoVQxCpFl762fM4BTsdgUnJmCamZ8MBOXw0duTyMmxo41Piry): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 19:18:38 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 19:18:38 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq25N7BYGtpfMdcfGBFwJUURA-34iik0LdDamgI94WsVKrW6NiGIolfgmc0S5jbrm1oRNNp2RL_px0zJpeBSfVnEDV6HxxscHOhFEZdAEZC74wUshuah2_-g4Zd1NHHb5Fz9WkBNWjTvGaUfmOmiGOkDvIt_JAhpZ3DW3WiO9oCQWLcrPYKKAGfPerfbExkRbRQuu74owImlLvMGvnhCh7dt4w_KIh8Tx0G3u5erPcEsaAUr1r8TBX8HR1JX1ak_XAbzAYmGDdv4Y2z2cXGKA8D_Ski0C0FTiV0UtTgGWAbVH3IdkmTCg4qZL0r3H2jq9FvWRr68R2XaJ_qDnFLa8ZWghd6OP8yHt7KtKdBmYghoDPk7BsRgegFJrtzmXvTs6iPSmE9fwR8H-gGyr-MJ5TfFR_yFkH2KZGfbGHmfWkch7hFX26-jhenujKXvoNT3pDvzv3WF8): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 19:22:32 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 19:22:32 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq24bnNsBT4YcQcvp3GxIgf-hrnLbPbngYblo6XwHL6BIbxALGkU5ip9kKa5IglsXLRSM0oQfGDJ6-T9aHK8dQynRioO-sVkmJRUi8_8q3UUpLA8_b0wZWnujST4VbWtG0m5KGLbvGAueFpPfPTiORyMKBGhKpF2Cuiy-FlVAoFqUDYH7zAZmF6I1gBeYFNiykxBihFJEj0eX2TxeONUW4mRCAZzTKiPkmpVqwO4n5JEn9W4pR2HsGSaO-WegxO9Nfgsmzs2kD-AXQweIX6IvLcL8ci96FaQCYabOFSK6D0y4u-WF_ob8MHaEqS4m8PNg98z8wtszmC_RbpT6uqWjm67lp4AyY54j7H8vG35rc6aVf0q5Q3aseey4l6vPCpoNd8HLT8VWM6d4GgosPYSFTYwdr4kN95tcIhM23EfTEsw3lyglfMKlrVZGDl_zokOk8AQX1wNs): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 19:40:00 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 19:40:00 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq2463qiDfrsXSHqI_gNd21DBehd_RwuMwUAhECzim8XibQ2kBJ_DE7s63fN9rOsrG4dEi3MicoM2qvyWG9KZ-X4vesRzCCulPkQXWdk1S2N9rDrgaZUVS8GnWYHf6iEB6dDh9ZNTkEIHfNKY3OtXZUTOrS9eeu_QaZFetd5ez8sE1UimOGWkGUuABP-SF8AcD08Z74gOWdW1iCI8w5akytlUTKlZO218bB-3NkOAb06sYHRWCRl9jRPl20l1Ex3AhvDtg3F9CwUxDlVwLq0nGbwK6vrhbogMteBgALBznOWl1a52IFqKu3mgQ2jlH3YKiQZFnCXqeP7BtFqqmf3M_U3JU6mWMowel0hA8Hn9vPzR-YqQQYeCJGtU51tnGYxwKS_zkJRQUS7HPVBotS08axJQEmntCBXNIQKLTqNvFko_H96ZxFj7hCjnQO8odU-i7vkpirbZ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 20:03:03 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 20:03:03 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq270RYs-Uc8z-gYDhclWyx7YDnLeVwb1H3faxUuctzKLLxlGLPPG7hFVFIJ0BDFYYak6DbsvukOWNZBQS-uarpRG2lz-R575sxf_MS7PQOxVIgnOGI7oduw3z1vV0dwFnRYmeskOZZ3mIJftjVa-APSlCh-u3aPaD5EG9wlixPqzqR-H2KHRbpvEmv6kfYGNlcallUG0yLA-TIyMls0WRaMhFHTHj_zoW4pjBFobgMUXBv0UZv_Zy-4oaq2oGjIVDG8t0E3wm19rJMGlA70BeMMUdLE47yEvhiwyv4xnGpEC-ZlG66IwKkWuG9OTPhOaX4jLJYNNOsRyQxBjYGa0HcDaLGIAPiBBjjJ-BJx1l0qk53lAy2CAwRnzHegA8y421cf1vUi-lXFl9Xf1Lr73Lqgp5H6EjwivLF2_TQdgaS2B1C8lVmuF5VaX87zxQguhXtaKQ2Vh): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 20:11:01 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 20:11:01 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq26thS8G0FllRSUua9dunOlS1XBTFKbj3sE6DBFAv7IFxPyNxLk9aMph2n09gYtH_Dod8S_op4Ze2_lsDtspSuPqmSIQyKwtAhO_L8aFRUHXq_E8m2PHA1N3hicWk4JUR9D9723HXcPrY6H4-smOjJqnMGzTTcWLfTjTeQ3H0JmrvntsuPKD7d3D5Cr56UkPzjDPU7k8lZ5107jTfNRI-wDQIoYbs1UMc0kyJVV6yJBgCK7enzMgBMBn9_bCuV0w8CfWFarRKLU03_6zco70Ab619s5bbxW8qVKqq70lpK1dCWbD4G2HDeaIgrow0iWZQS1Vgnkq7D_5kf34vhLWHUSgIQIAf_VrniughULVxeXYic2pqwK9RsFpVBtpovIqeeOcmqrY0_liGOEIA3rroxbrLpoLtZYX1BTGovvgSQjTY8P7oVOivaoBCcvyDQ9OP6_rc2yw): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 20:11:28 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
+[19-Mar-2021 20:11:28 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LfFVmQaAAAAAKUIO0_jgo1yWOG3l6iGw8voy5LL&amp;response=03AGdBq24LaplXDogajSXiUj66qvZIUMVrtn3xhx0gsMtHPPJGGsKzQc38_oqYudIQdcs-4dVFgYdiJRCYRRhxoaAWhS2mhYz_rFYAGeRzRBwHc-AqxBt1-fE1sjVljpr5iUY5ryY1hqtepajTOFp3PqYZ8Hd3JjXpSCvOGXdzdHtTBxGC5cc-22ufXcOOscVw7tmuSrOI9Ub1L040uyMvN3NimTLUCbGqKoWUhqBQN8ApM7NdW57lhrdnMgM55LAb2QwD3reM1BwFXrpajyWHsDkon0yhFrKPSIA6ekza9CcYdBCjDwIPknQhLUPf7GR56goIXsF055S0R019xu-e32---DLbSKIKlFMvJ0EVfqXMXD_5EjU35eMZFUkG_ER9Rcay7VDiWi8DMTAoKVWZDRvMZedEbBH4oI3RD44gIOeC6YeMXGon1KXIRtTY3jwUDWSifkEXcfPQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/papusapa/public_html/SignUP.php on line 20
